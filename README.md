@@ -42,6 +42,14 @@ conda create -n colorsort --file packages.txt
 conda activate colorsort
 ```
 
+To open the jupyter notebook, use jupyter lab
+as follows:
+
+```PowerShell
+conda activate colorsort
+jupyter lab
+```
+
 ### Package List
 
 To update list of packages with current environment, use the following command:
